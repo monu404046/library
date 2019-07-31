@@ -5,61 +5,61 @@
         "author":"J. K. Rowling",
         "price":1,
         "category":"fiction",
-        "image":""
+        "image":"harrypotter.jpg"
     },
     {
-        "title":"",
+        "title":"2666",
         "id":"2",
-        "author":"",
-        "price":1,
-        "category":"",
-        "image":""
+        "author":"Roberto Bolaño",
+        "price":100,
+        "category":"fiction",
+        "image":"2666.jpg"
     },
     {
-        "title":"",
+        "title":"All About Love",
         "id":"3",
-        "author":"",
-        "price":1,
-        "category":"",
-        "image":""
+        "author":"bell hooks",
+        "price":100,
+        "category":"romance",
+        "image":"all about love.jpg"
     },
     {
-        "title":"",
+        "title":"Desert Solitaire",
         "id":"4",
-        "author":"",
-        "price":1,
-        "category":"",
-        "image":""
+        "author":"Edward Abbey",
+        "price":100,
+        "category":"romance",
+        "image":"desert solitire.jpg"
     },
     {
-        "title":"",
+        "title":"Geek Love",
         "id":"5",
-        "author":"",
-        "price":1,
-        "category":"",
+        "author":"Katherine Dunn",
+        "price":100,
+        "category":"thriller",
         "image":""
     },    
     {
-        "title":"",
-        "id":"",
-        "author":"",
-        "price":1,
-        "category":"",
+        "title":"Giovanni's Room",
+        "id":"6",
+        "author":" James Baldwin",
+        "price":100,
+        "category":"thriller",
         "image":""
     }, 
     {
-        "title":"",
+        "title":"A Good Man Is Hard to Find and Other Stories",
         "id":"7",
-        "author":"",
-        "price":1,
-        "category":"",
+        "author":"Flannery O'Connor",
+        "price":100,
+        "category":"horror",
         "image":""
     }, 
     {
         "title":"",
         "id":"8",
         "author":"",
-        "price":1,
+        "price":100,
         "category":"",
         "ima"
     }, 
@@ -67,7 +67,7 @@
         "title":"",
         "id":"9",
         "author":"",
-        "price":1,
+        "price":100,
         "category":"",
         "image":""
     }, 
@@ -75,7 +75,7 @@
         "title":"",
         "id":"10",
         "author":"",
-        "price":1,
+        "price":100,
         "category":"",
         "image":"U"
     }, 
